@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="375" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif"  />
+<img align="right" height="350" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif"  />
 
 ###
 
@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">🏢 I'm a DevOps Engineer for <a href="https://www.optimumpartners.com/index.html">Optimum Partners DWC LLC</a><br>🎓 Currently doing my Master's degree in Computer Science<br>🎮 I play video games to release stress<br>🏯 I like watching anime<br>🚫 <a href="https://nohello.net/en/">No hellos, please</a></p>
+<p align="left">🏢 I'm a DevOps Engineer for <a href="https://www.optimumpartners.com/index.html">Optimum Partners DWC LLC</a><br>🎓 Currently doing my Master's degree in Computer Science<br>🎮 I play video games to release stress<br>🏯 I like watching anime<br>
+🚫 <a href="https://nohello.net/en/">No hellos, please</a></p>
 
 ###
 
