@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="350" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif"  />
+<img align="right" height="375" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif"  />
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
