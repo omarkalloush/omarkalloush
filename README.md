@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="350" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif"  />
+<img align="right" height="300" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif"  />
 
 ###
 
@@ -23,7 +23,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src
+="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
   <img width="12" />
