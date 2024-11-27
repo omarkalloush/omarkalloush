@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🏢 I'm a DevOps Engineer for <a href="https://www.optimumpartners.com/index.html">Optimum Partners DWC LLC</a><br>🎓 Currently doing my Master's degree in Computer Science<br>🎮 I play video games to release stress<br>🏯 I like watching anime<br>
+<p align="left">🏢 I'm a DevOps Engineer for <a href="https://www.optimumpartners.com/index.html">Optimum Partners DWC LLC</a><br>🎓 Master's degree in Computer Science<br>🎮 I play video games to release stress<br>🏯 I like watching anime<br>
 🚫 <a href="https://nohello.net/en/">No hellos, please</a></p>
 
 ###
@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" height="40" alt="lua logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"  />
   <img width="12" />
