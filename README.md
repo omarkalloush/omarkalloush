@@ -2,16 +2,20 @@
 
 ###
 
-<img align="right" height="300" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif"  />
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">🏢 I'm a DevOps Engineer for <a href="https://www.optimumpartners.com/index.html">Optimum Partners DWC LLC</a><br>🎓 Master's degree in Computer Science<br>🎮 I play video games to release stress<br>🏯 I like watching anime<br>
-🚫 <a href="https://nohello.net/en/">No hellos, please</a></p>
+<pre>
+  <img align="right" height="300" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif"  />
+  <p align="left">
+    🏢 I'm a DevOps Engineer for <a href="https://www.optimumpartners.com/index.html">Optimum Partners DWC LLC</a>
+    🎓 Master's degree in Computer Science
+    🎮 I play video games to release stress
+    🏯 I like watching anime
+    🚫 <a href="https://nohello.net/en/">No hellos, please</a>
+  </p>
+</pre>
 
 ###
 
